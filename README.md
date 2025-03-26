@@ -79,8 +79,7 @@ number_guessing_game/
 - Python 3.x
 - tabulate (for table formatting)
 - python-dateutil (for date handling)
-- SQLAlchemy (for data persistence)
-- requests (for network operations)
+
 
 ## Development
 This project follows industry-standard practices:
